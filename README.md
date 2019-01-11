@@ -31,7 +31,7 @@
 
 使用者可以透過網頁按下 `Get Info` 按鈕即可得到現在的溫濕度
 
-![](https://i.imgur.com/rFVg0qo.png)
+![](https://i.imgur.com/LJvQF0N.png)
 
 後段監控的溫濕度資料
 
