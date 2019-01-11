@@ -16,8 +16,11 @@
 ## 專案結構
 
 ├─ AdafruitDHT.py
+
 ├─ README.md
+
 ├─ engine.py
+
 └─ server.py
 
 - `AdafruitDHT.py` 即時監控問濕度
@@ -26,16 +29,20 @@
 
 ## Demo
 
-- 使用者可以透過網頁按下 `Get Info` 按鈕即可得到現在的溫濕度
+使用者可以透過網頁按下 `Get Info` 按鈕即可得到現在的溫濕度
 
-    - ![](https://i.imgur.com/LO1XqdN.png)
+![](https://i.imgur.com/LJvQF0N.png)
 
-- 後段監控的溫濕度資料
+後段監控的溫濕度資料
 
-    - ![](https://i.imgur.com/MVz6NFP.png)
+![](https://i.imgur.com/N5keyui.png)
+
+硬體裝置
+
+![](https://i.imgur.com/2u6enmQ.jpg)
 
 ## 分工
 
-丁翊軒 : 硬體配置
-陳于真 : 專題發想 原型設計
-王 威 : 程式串接
+- 丁翊軒 : 硬體配置
+- 陳于真 : 專題發想 原型設計
+- 王 威 : 程式串接
