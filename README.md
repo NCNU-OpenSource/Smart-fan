@@ -26,13 +26,17 @@
 
 ## Demo
 
-- 使用者可以透過網頁按下 `Get Info` 按鈕即可得到現在的溫濕度
+使用者可以透過網頁按下 `Get Info` 按鈕即可得到現在的溫濕度
 
-    - ![](https://i.imgur.com/rFVg0qo.png)
+![](https://i.imgur.com/rFVg0qo.png)
 
-- 後段監控的溫濕度資料
+後段監控的溫濕度資料
 
-    - ![](https://i.imgur.com/MVz6NFP.png)
+![](https://i.imgur.com/N5keyui.png)
+
+硬體裝置
+
+![](https://i.imgur.com/2u6enmQ.jpg)
 
 ## 分工
 
