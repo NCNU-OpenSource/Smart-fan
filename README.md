@@ -16,8 +16,11 @@
 ## 專案結構
 
 ├─ AdafruitDHT.py
+
 ├─ README.md
+
 ├─ engine.py
+
 └─ server.py
 
 - `AdafruitDHT.py` 即時監控問濕度
